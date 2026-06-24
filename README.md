@@ -1,4 +1,4 @@
-# Bento Grid UI Project
+# SpectrumDrid with HTML/CSS
 
 A web project with a responsive mosaic block layout styled using HTML and CSS Flexbox.
 Installation / How to Run
