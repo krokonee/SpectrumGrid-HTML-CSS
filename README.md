@@ -4,7 +4,7 @@ A web project with a responsive mosaic block layout styled using HTML and CSS Fl
 
 # Installation / How to Run
 
-1. Download or unzip the project folder.
+1. Download or unzipp the project folder.
 2. Open 'fleex.html' in your browser.
    
 # Usage
